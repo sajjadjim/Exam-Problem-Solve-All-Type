@@ -1,4 +1,4 @@
-child1 = {
+child1 = { 
   "name" : "sajjad Jim",
   "year" : 1999
 }
