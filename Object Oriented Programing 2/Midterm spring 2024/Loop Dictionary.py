@@ -1,4 +1,4 @@
-my_dictionary =  { 
+my_dictionary =  {  
     "name" : "JIM",
     "age" : 24,
     "District" : "Manikjong"
