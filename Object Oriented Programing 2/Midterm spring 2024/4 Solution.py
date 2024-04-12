@@ -5,7 +5,7 @@ Height = {'Child':[30, 40 ,35 , 45 , 30] ,
    
 avarage_Height = {}
 for age_list ,Height_list in Height.items():
-#new arguments = sum of (All Key elements )/ length of Key elements
+#new arguments = sum of (All Key elements )/ length of Key elements 
     avarage_Heights = sum(Height_list) / len(Height_list) 
     avarage_Height[age_list] = avarage_Heights
 
