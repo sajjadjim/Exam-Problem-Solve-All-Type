@@ -9,7 +9,7 @@ for age_list ,Height_list in Height.items():
     avarage_Heights = sum(Height_list) / len(Height_list)
     avarage_Height[age_list] = avarage_Heights
 
-print(avarage_Height)
+print(avarage_Height) 
 # Print Length of Dictionary
 print(len(Height))
 
